@@ -1,5 +1,12 @@
 {
     "files.exclude": {
         "**/*.o": true
+    },
+    "files.associations": {
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "streambuf": "cpp"
     }
 }
